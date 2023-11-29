@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages ="com.example.MVC2.Controller" )
+@ComponentScan(basePackages ="com.example.MVC2.yController" )
 public class Mvc2Application {
 
 	public static void main(String[] args) {
